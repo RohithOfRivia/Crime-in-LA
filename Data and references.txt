@@ -1,0 +1,10 @@
+pictures: unsplash.com
+
+data: https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8
+
+Battery: https://www.fairview.org/patient-education/116405EN
+
+vehicle theft: https://www.haltonpolice.ca/en/staying-safe/vehicle-theft-prevention-tips.aspx#:~:text=Secure%20your%20vehicle%20with%20the,locking%20device%20to%20deter%20theft
+
+
+
