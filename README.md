@@ -1,5 +1,4 @@
-﻿
-![banner](assets/Credit_card_approval_banner.png)
+﻿![banner](assets/Credit_card_approval_banner.png)
 
 
 ![Python version](https://img.shields.io/badge/Python%20version-3.9%2B-green)
@@ -66,17 +65,33 @@ The user can interact with the Tableau workbook for more in-depth and focused vi
 
 ## Quick glance at the results
 
-Total Number of Crimes: 
+Crimes grand total: 
 
 ![Total no. of crimes](assets/kpi.png)
 
-![](assets/map.png)
+### Dashboards
 
-ROC curve of gradient boosting classifier.
+![Monthly occurences by category - Map](assets/map.png)
+ 
+\
+\
+![No. of incidents by month](https://imgur.com/Qi9ku74)
+\
+\
+![Crime categories vs sex](https://imgur.com/Tudj34D)
+\
+\
+![Age vs type of crimes](https://imgur.com/RbYVIUK)
+\
+\
+![Status of investigation and victim sex](https://imgur.com/YsYI0p7)
+\
+\
+![Premise & weapons used](https://imgur.com/ZkkHhXG)
+\
+\
+![Percentage of incidents by area](https://imgur.com/GCPyDaX)
 
-![ROC curve](assets/roc.png)
-
-Top 3 models (with default parameters)
 
 
 
@@ -267,4 +282,3 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 Learn more about [MIT](https://choosealicense.com/licenses/mit/) license
-
