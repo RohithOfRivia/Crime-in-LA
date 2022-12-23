@@ -70,7 +70,7 @@ Total Number of Crimes:
 
 ![Total no. of crimes](assets/kpi.png)
 
-!(assets/map.png)
+![](assets/map.png)
 
 ROC curve of gradient boosting classifier.
 
