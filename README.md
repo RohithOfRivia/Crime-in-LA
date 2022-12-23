@@ -55,7 +55,7 @@ The user can interact with the Tableau workbook for more in-depth and focused vi
 - Multivariate correlation
 - S3 bucket model hosting
 - Model deployment
-- 
+
 ## Tech Stack
 
 - Python (refer to requirement.txt for the packages used in this project)
@@ -70,27 +70,34 @@ Crimes grand total:
 ![Total no. of crimes](assets/kpi.png)
 
 ### Dashboards
+**Monthly occurences by category - Map**
 
 ![Monthly occurences by category - Map](assets/map.png)
  
+**No. of incidents by month**
 \
 \
 ![No. of incidents by month](assets/by&#32;month.png)
 \
 \
-![Crime categories vs sex](https://imgur.com/Tudj34D)
+**Crime categories vs sex**
+![Crime categories vs sex](assets/victim&#32;sex&#32;vs&#32;cat.png)
 \
 \
-![Age vs type of crimes](https://imgur.com/RbYVIUK)
+**Age vs type of crimes**
+![Age vs type of crimes](age&#32;vs&#32;cat.png)
 \
 \
-![Status of investigation and victim sex](https://imgur.com/YsYI0p7)
+**Status of investigation and victim sex**
+![Status of investigation and victim sex](status&#32;and&#32;time.png)
 \
 \
-![Premise & weapons used](https://imgur.com/ZkkHhXG)
+**Premise & weapons used**
+![Premise & weapons used](location&#32;and&#32;weapons.png)
 \
 \
-![Percentage of incidents by area](https://imgur.com/GCPyDaX)
+**Percentage of incidents by area**
+![Percentage of incidents by area](map2.png)
 
 
 
