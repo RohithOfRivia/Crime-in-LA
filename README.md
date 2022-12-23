@@ -85,19 +85,19 @@ Crimes grand total:
 \
 \
 **Age vs type of crimes**
-![Age vs type of crimes](age&#32;vs&#32;cat.png)
+![Age vs type of crimes](assets/age&#32;vs&#32;cat.png)
 \
 \
 **Status of investigation and victim sex**
-![Status of investigation and victim sex](status&#32;and&#32;time.png)
+![Status of investigation and victim sex](assets/status&#32;and&#32;time.png)
 \
 \
 **Premise & weapons used**
-![Premise & weapons used](location&#32;and&#32;weapons.png)
+![Premise & weapons used](assets/location&#32;and&#32;weapons.png)
 \
 \
 **Percentage of incidents by area**
-![Percentage of incidents by area](map2.png)
+![Percentage of incidents by area](assets/map2.png)
 
 
 
