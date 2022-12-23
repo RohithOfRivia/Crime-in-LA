@@ -75,7 +75,7 @@ Crimes grand total:
  
 \
 \
-![No. of incidents by month](https://imgur.com/Qi9ku74)
+![No. of incidents by month](assets/by-month)
 \
 \
 ![Crime categories vs sex](https://imgur.com/Tudj34D)
