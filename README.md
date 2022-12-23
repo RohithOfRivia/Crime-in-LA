@@ -70,9 +70,7 @@ Total Number of Crimes:
 
 ![Total no. of crimes](assets/kpi.png)
 
-Confusion matrix of gradient boosting classifier.
-
-![Confusion matrix](assets/confusion_matrix.png)
+!(assets/map.png)
 
 ROC curve of gradient boosting classifier.
 
