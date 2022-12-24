@@ -3,14 +3,8 @@
 
 ![Python version](https://img.shields.io/badge/Python%20version-3.9%2B-green)
 ![GitHub last commit](https://img.shields.io/badge/Last%20Commit-Dec%202022-yellowgreen)
-![GitHub repo size](https://img.shields.io/github/repo-size/semasuka/Credit-card-approval-prediction-classification)
-![Type of ML](https://img.shields.io/badge/Type%20of%20ML-Binary%20Classification-red)
-![License](https://img.shields.io/badge/License-MIT-green)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CfV6yEsHBjFiJbTKwY72k2g4AvszcF5R)
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/semasuka/credit-card-approval-prediction-classification/main/cc_approval_pred.py)
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![GitHub repo size](https://img.shields.io/badge/Repo%20Size-8.3%20MB-blue)
 
-Badge [source](https://shields.io/)
 
 ## Authors
 
@@ -25,18 +19,6 @@ Badge [source](https://shields.io/)
   - [Quick glance at the results](#quick-glance-at-the-results)
   - [Lessons learned and recommendation](#lessons-learned-and-recommendation)
   - [Limitation and what can be improved](#limitation-and-what-can-be-improved)
-  - [Run Locally](#run-locally)
-  - [Explore the notebook](#explore-the-notebook)
-  - [Deployment on streamlit](#deployment-on-streamlit)
-  - [App deployed on Streamlit](#app-deployed-on-streamlit)
-  - [Repository structure](#repository-structure)
-  - [Contribution](#contribution)
-  - [Blog post](#blog-post)
-  - [Project featuring](#project-featuring)
-  - [License](#license)
-
-
-
 
 ## Project Description
 
@@ -96,7 +78,8 @@ Crimes grand total:
 
  **Findings**
 
-- Based on the created visualizations and analysis, it is clear that some types of crime have a very clear area where incidents keep being reported. For example, sex trafficking and many related crimes are focused primarily near the Vermont Knolls area. Most of these incidents have not yet resulted in an arrest of the offender. Interestingly, 80% of all crimes have not yet resulted in an arrest.
+- Based on the created visualizations and analysis, it is clear that some types of crime have a very clear area where incidents keep being reported. For example, sex trafficking and many related crimes are focused primarily near the Vermont Knolls area. There were a total of 257 crimes reported from Jan 2020 to Aug 2022. 
+- Most of these incidents have not yet resulted in an arrest of the offender. Interestingly, 80% of all crimes have not yet resulted in an arrest.
 
 - Top 3 common crimes are vehicle theft, simple assault, and burglary from vehicle. Simple assault has a much higher concentration around the Downtown area. The other two are much more spread out throughout the city. 
 
@@ -111,12 +94,15 @@ Crimes grand total:
 ## Limitation and what can be improved
 
 - The victim sex is unclear in a large number of incidents, so the data was filtered accordingly for analysis. 
+
 - Statistical tests to confirm if some of the findings are statistically significant. (Correlation test, t-test)
+
+- There are multiple charges pressed for many crimes, and they are provided in this dataset. It could be investigated further to find out relationships between these charges. For example, x% of criminals charged with A is also charged with B.
 
 - More findings to be discovered from the data
 
 
 ## Explore the notebook
 
-To explore the notebook file [here](https://nbviewer.org/github/semasuka/Credit-card-approval-prediction-classification/blob/main/Credit_card_approval_prediction.ipynb)
+To explore the notebook file [here](https://nbviewer.org/github/RohithOfRivia/Crime-in-LA/blob/main/LA%20DV.ipynb)
 
