@@ -33,7 +33,7 @@ The user can interact with the Tableau workbook for more in-depth and focused vi
 
 ## Tech Stack
 
-- Python (refer to requirement.txt for the packages used in this project)
+- Python (Pandas, Matplotlib)
 - Tableau(interface for the model)
 
 
