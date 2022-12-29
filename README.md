@@ -17,7 +17,7 @@
   - [Methods](#methods)
   - [Tech Stack](#tech-stack)
   - [Quick glance at the results](#quick-glance-at-the-results)
-  - [Lessons learned and recommendation](#lessons-learned-and-recommendation)
+  - [Lessons learned and recommendation](#findings)
   - [Limitation and what can be improved](#limitation-and-what-can-be-improved)
 
 ## Project Description
@@ -76,7 +76,7 @@ Crimes grand total:
 
 
 
- **Findings**
+## Findings
 
 - Based on the created visualizations and analysis, it is clear that some types of crime have a very clear area where incidents keep being reported. For example, sex trafficking and many related crimes are focused primarily near the Vermont Knolls area. There were a total of 257 crimes reported from Jan 2020 to Aug 2022. 
 - Most of these incidents have not yet resulted in an arrest of the offender. Interestingly, 80% of all crimes have not yet resulted in an arrest.
