@@ -17,7 +17,7 @@
   - [Methods](#methods)
   - [Tech Stack](#tech-stack)
   - [Quick glance at the results](#quick-glance-at-the-results)
-  - [Lessons learned and recommendation](#findings)
+  - [Findings](#findings)
   - [Limitation and what can be improved](#limitation-and-what-can-be-improved)
 
 ## Project Description
