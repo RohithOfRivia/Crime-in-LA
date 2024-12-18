@@ -24,7 +24,7 @@
 
 In this project, recent criminal activity data based in Los Angeles is analyzed extensively to find patterns and insights for many different aspects of crime. No. occurences for different types of crime, sex of affected victims, weapons used, location and premise of the incident and many more things are investigated with this dataset. 
 
-The user can interact with the [Tableau workbook](https://public.tableau.com/app/profile/rohith.kumar2433/viz/LAcrime_16667491691220/Crimerankmap) for more in-depth and focused visualizations.
+The user can interact with the [Tableau workbook](https://public.tableau.com/app/profile/rohith.kumar2433/viz/shared/SPT98JK27) for more in-depth and focused visualizations. The first tab that the link lands on contains majority of the dashboards. Please feel free to take a look. 
  
 ## Data source
 
